@@ -32,9 +32,9 @@ Note: I used different images(/icons).
 
 - main tag should be used only once per html document.
 
-- margin-inline and padding-inline used for horizontally center blocks.
+- margin-inline and padding-inline used for horizontally centers the blocks.
 
-- margin-block and padding-block used for vertically center blocks.
+- margin-block and padding-block used for vertically centers the blocks.
 
 - [units](https://www.w3schools.com/cssref/css_units.php) 
     - rem = root em ,relative to browser base font-16px
