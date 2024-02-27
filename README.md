@@ -15,10 +15,17 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 Note: I used different images(/icons).
 
 
-## My process
+## My proccess 
 
-### Built with :Books:
+### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
+-HTML5
+-CSS
+-CSS Grid
+
+### What I learned
+
+-'<main><main/>': main tag should be used only once per html document.
+
+
+### Useful resources

@@ -71,7 +71,8 @@ header > p {
     padding: 2rem;   
     border-top: 0.325rem solid;
     border-radius: 0.5rem;
-    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 0.2);
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 0.2); 
+    /* Note: rgb(values without comma's / alpha value) it is not same as rgb(0,0,0) and rgba(0,0,0,0)*/
 }
 
 .card__title {
